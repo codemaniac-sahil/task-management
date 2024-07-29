@@ -1,4 +1,4 @@
-# CheckMate: MERN Stack To-Do / Task Management Web Application
+# MERN Stack To-Do / Task Management Web Application
 
 ## Project Documentation
 
@@ -15,7 +15,7 @@
     4. [Dark and Light Theme](#dark-and-light-theme)
     5. [Drag and Drop](#drag-and-drop)
 7. [Setup Instructions](#setup-instructions)
-8. [Conclusion](#conclusion)
+
 
 ### Introduction
 
@@ -66,7 +66,7 @@ CheckMate is a robust task management application designed using the MERN stack 
 ### Project Structure
 
 ```
-CheckMate/
+task-management/
 ├── backend/
 │   ├── config/
 │   ├── controllers/
@@ -139,8 +139,8 @@ CheckMate/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Shakilofficial/CheckMate
-   cd CheckMate
+   git clone https://github.com/codemaniac-sahil/task-management
+   cd task-management
    ```
 
 2. **Setup Backend:**
@@ -175,6 +175,3 @@ CheckMate/
 4. **Access the application:**
    - Open your browser and go to `http://localhost:3000`.
 
-### Conclusion
-
-CheckMate provides a comprehensive solution for managing tasks efficiently. With its robust features and user-friendly interface, it aims to enhance productivity and task organization for its users. This documentation should guide you through the setup and implementation of the project, ensuring a smooth development experience.
